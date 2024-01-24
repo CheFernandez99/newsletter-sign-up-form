@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+ font-family: Roboto;
+ font-size: 16px;
+}
+body{
+    background:  hsl(235, 18%, 26%);
+}
+.signUp{
+background: white;
+padding: 2.5rem;
+width: 400px;
+height: 438px;
+border-radius: 1rem 0 0 1rem;
+}
+.image{
+background: white;
+padding: 0.5rem;
+border-radius: 0 1rem 1rem 0;
+}
+#signUpImg{
+  height: 498px;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#p1{
+    margin-bottom: 2rem;
+}
+p{
+   margin: 0.5rem;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+/*success card*/
+.thanks{
+    background: white;
+    width: 400px;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+#h1Thanks{
+font-size: 40px;
+text-align: left;
+margin: 1rem;
+}
+#p2{
+    margin: 1rem;
+}
